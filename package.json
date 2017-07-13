@@ -1,0 +1,18 @@
+{
+  "name": "koa2-api",
+  "version": "1.0.0",
+  "description": "Koa2-api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Kun",
+  "license": "ISC",
+  "devDependencies": {
+    "koa-router": "^7.2.1",
+    "koa2": "^2.0.0-alpha.7"
+  },
+  "dependencies": {
+    "monk": "^6.0.1"
+  }
+}
